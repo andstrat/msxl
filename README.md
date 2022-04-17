@@ -115,8 +115,8 @@ OPEN
 IDEAS
 =====
 
-- [ ] Lock Looppoints to step lane. dfgff
-- [ ] 8 Variants per pitch pattern: Pitch sequence stays same, variante, e.g repeat my vary. Can be choosen in Control Lane.
+- [ ] Lock Looppoints to step lane. 
+- [ ] Variants per pitch pattern: Pitch sequence stays same, variante, e.g repeat my vary. Can be choosen in Control Lane.
 - [ ] Hocketing for 4(?) Midi devices
 - [ ] Import MIDI file
 - [ ] Drag / Drop to and from Ableton
@@ -127,10 +127,10 @@ IDEAS
 - [ ] IDEA: Programs = Pattern chains + program chains :heart:
 - [ ] IDEA: Save pattern as Default
 - [ ] ~~IDEA: Devider für Lanes Velocity, Dura, Octave, Parameter, program~~
-- [ ] IDEA: Poly version of Pitch Lane with a Matrix
+- [ ] IDEA: Poly version of Pitch Lane with a Matrix and poly~ object
 - [ ] IDEA: Separate window view where you can change the layout, so that all lanes can be visible at once :heart:
-- [ ] IDEA: 2 additional Modulation Lanes
-- [ ] IDEA: More scales
-- [ ] IDEA: Folded scale view in Pitch Lane
+- [ ] IDEA: 2 additional Modulation Lanes. one Modulation lane with multiple Modulation seqs in it, e.g. tab
+- [x] IDEA: More scales
+- [x] IDEA: Folded scale view in Pitch Lane
 - [x] Multiple Play Heads: Devices can be linked. 1 Master Multiple slaves. Working for pitch lane. Works across tracks.
 - [ ] Poly Version
